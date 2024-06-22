@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Praneshs639
 - 👀 I’m interested in ... travelling
-- 🌱 I’m currently learning ...web development
+- 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ... developers
-- 📫 How to reach me ... mail me through the my name
+- 📫 How to reach me ... mail me 
 
 
 <!---
