@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Praneshs639
+- 👋 Hi, I’m Pranesh
 - 👀 I’m interested in ... travelling
 - 🌱 I’m currently learning ...c, perl, java
 - 💞️ I’m looking to collaborate on ... developers
